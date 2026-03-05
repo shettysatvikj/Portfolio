@@ -42,7 +42,7 @@ const App = () => {
     description:
       "Premium clinic booking system with conversion-focused UX and performance optimization.",
     highlight: "End-to-end UX architecture",
-    link: "https://doc-ease-ikdv.vercel.app/",
+    link: "https://doc-ease-phi.vercel.app/",
     image: clinicImg
   },
   {
